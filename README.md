@@ -10,7 +10,7 @@ Me apasiona la programación, tengo un canal de Youtube donde enseño análisis 
 Trabajé en múltiples organismos procesando bases de datos y evaluando políticas públicas.
 
 Algunos de los sitios donde trabajé:
-- Ministerios de Economía de la Provincia de Buenos Aires
+- Ministerio de Economía de la Provincia de Buenos Aires
 - Ministerio de Educación de la Provincia de Buenos Aires
 - Unidad de Evaluación Integral de la Calidad y Equidad Educativa
 - Facultad de Ciencias Económicas de la UNLP
