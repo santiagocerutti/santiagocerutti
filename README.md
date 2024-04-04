@@ -66,7 +66,10 @@ Actualmente soy Asistente de Investigación en la Oficina del Economista Jefe pa
 
 </table>
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/stateando)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoyar_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/stateando)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI3ZGExMmF6dXJyOWh0ZnplMnB2bmQyOWgyMjE1YmFrb2o4M3doZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hXMGQqJFlIQMOjpsKC/giphy.gif" alt="image" width="20%" height="auto">
+
 
 
 <!--
