@@ -3,7 +3,7 @@ Soy Economista de la Universidad Nacional de La Plata, Argentina.
 
 Me apasiona la programación, tengo un canal de Youtube donde enseño análisis de datos en Stata y también doy clases particulares y asesorías.
 
-[![YouTube](https://img.shields.io/badge/Stateando-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@stateando)
+[![YouTube](https://img.shields.io/badge/YouTube-Stateando-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@stateando)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-jqicSCWen_FCATDcFVORQ)](https://www.youtube.com/channel/UC-jqicSCWen_FCATDcFVORQ)
 
