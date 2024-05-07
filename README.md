@@ -1,5 +1,5 @@
 ### Hola, Mi nombre es Santiago 👋
-Soy Economista de la Universidad Nacional de La Plata, Argentina.
+Soy Economista egresado de la Universidad Nacional de La Plata, Argentina.
 
 Me apasiona la programación, tengo un canal de Youtube donde enseño análisis de datos en Stata y también doy clases particulares y asesorías.
 
@@ -7,7 +7,7 @@ Me apasiona la programación, tengo un canal de Youtube donde enseño análisis 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-jqicSCWen_FCATDcFVORQ)](https://www.youtube.com/channel/UC-jqicSCWen_FCATDcFVORQ)
 
-Trabajé en múltiples organismos procesando bases de datos y evaluando políticas públicas.
+Trabajé en múltiples organismos procesando y analizando bases de datos enfocado a la evaluación políticas públicas.
 
 Algunos de los sitios donde trabajé:
 - Ministerio de Economía de la Provincia de Buenos Aires
